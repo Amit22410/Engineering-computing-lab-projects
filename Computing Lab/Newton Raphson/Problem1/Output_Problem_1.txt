@@ -1,0 +1,10 @@
+The initial guess for NR method (x0) = 2.000000
+
+Iteration(n)	X_n+1 (NR method)	Error
+
+0				2.250000			0.250000
+1				2.224280			0.025720
+2				2.223980			0.000300
+3				2.223980			0.000000
+
+The cube root of 11 is 2.223980

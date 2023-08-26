@@ -1,0 +1,8 @@
+The solution of given system of linear equations :
+X[1]=1.668750	
+X[2]=3.012500	
+X[3]=1.050000	
+Final Augmented matrix after forward elimination :
+4.000000	2.000000	6.000000	19.000000	
+0.000000	-8.000000	-8.000000	-32.500000	
+0.000000	0.000000	-10.000000	-10.500000	
